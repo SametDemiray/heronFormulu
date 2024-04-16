@@ -10,6 +10,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("--- Lütfen Kenar Uzunluklarını Giriniz. --- ");
+        
         double a;
         double b;
         double c;
